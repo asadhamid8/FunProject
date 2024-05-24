@@ -11,5 +11,5 @@ app.get('/',function(req,res){
 app.listen(port,function(){
 
 
-    console.log('listening as on ')
+    console.log('listening as on zia ')
 })
